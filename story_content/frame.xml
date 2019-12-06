@@ -1162,7 +1162,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5c2EVmUSb3u" displaytext="Szene ohne Titel" expand="true" type="slide">
+        <slidelink slideid="_player.5c2EVmUSb3u" displaytext="Wissenstest Version BUW" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5c2EVmUSb3u.5oqbpdbSB1Z" displaytext="Wissenstest&#xA; - Version HHU" expand="false" type="slide" />
             <slidelink slideid="_player.5c2EVmUSb3u.65MculiIFWw" displaytext="Bewerbung" expand="false" type="slide" />
@@ -1170,11 +1170,10 @@
             <slidelink slideid="_player.5c2EVmUSb3u.6CmnRmNcJxC" displaytext="Mathe" expand="false" type="slide" />
             <slidelink slideid="_player.5c2EVmUSb3u.6eIom7eVp8N" displaytext="ONC " expand="false" type="slide" />
             <slidelink slideid="_player.5c2EVmUSb3u.6A8mxKoCoH2" displaytext="Stimmt's" expand="false" type="slide" />
-            <slidelink slideid="_player.5c2EVmUSb3u.6BEJ8DNLzu1" displaytext="Verfahren " expand="false" type="slide" />
-            <slidelink slideid="_player.5c2EVmUSb3u.6WU4k8H64zY" displaytext="Stimmt's" expand="false" type="slide" />
             <slidelink slideid="_player.5c2EVmUSb3u.5ibJgphihRn" displaytext="Studiengangssuche" expand="false" type="slide" />
             <slidelink slideid="_player.5c2EVmUSb3u.5tNgxE6V0sT" displaytext="Wartesemester" expand="false" type="slide" />
             <slidelink slideid="_player.5c2EVmUSb3u.6p5dPvxsE6q" displaytext="Regelstudienzeit" expand="false" type="slide" />
+            <slidelink slideid="_player.5c2EVmUSb3u.5tByBIQ9WZM" displaytext="Regelstudienzeit" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
